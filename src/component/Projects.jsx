@@ -31,7 +31,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-20 bg-gradient-to-r from-black via-[#230825] to-black text-white overflow-hidden">
+    <section id="projects" className="py-20 bg-gradient-to-r from-black via-[#301934] to-black text-white overflow-hidden">
       <div className="max-w-6xl mx-auto px-6">
         {/* Section Heading */}
         <h2 className="text-5xl font-bold text-left mb-12 text-white">
