@@ -5,7 +5,7 @@ const projects = [
    {
     title: "Certimate",
     desc: "A web app that allows users to customize templates, add text, upload images, and generate personalized certificates or documents in image/PDF format.",
-    tech: ["HTML5", "CSS3", "JavaScript", "Python", "Flask", "ReportLab", "jspdf", "PIL (Pillow)", "Werkzeug", "xlsx"],
+    tech: ["HTML5", "CSS3", "JavaScript", "Python", "Flask", "ReportLab", "jspdf", "PIL (Pillow)", "Werkzeug", "xlsx","Firebase"],
     link: "https://nandanajm2003.github.io/certimate/",
   },
   {
@@ -34,7 +34,7 @@ const Projects = () => {
     <section id="projects" className="py-20 bg-gradient-to-r from-black via-[#071218] to-black text-white overflow-hidden">
       <div className="max-w-6xl mx-auto px-6">
         {/* Section Heading */}
-        <h2 className="text-5xl font-extrabold text-left mb-12 text-white">
+        <h2 className="text-5xl font-bold text-left mb-12 text-white">
           Featured <span className="bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">Projects</span>
         </h2>
 

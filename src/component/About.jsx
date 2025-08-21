@@ -1,4 +1,5 @@
 import React from "react";
+import { FaDownload } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
       className="min-h-screen bg-black text-gray-200 py-16 px-6"
     >
       {/* Heading */}
-      <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-50 mb-12">
+      <h2 className="text-3xl lg:text-5xl font-bold text-center text-gray-50 mb-12">
         About <span className="bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">Me</span>
       </h2>
 
@@ -60,7 +61,7 @@ const About = () => {
               ].map((skill, index) => (
                 <span
                   key={index}
-                  className="px-3 py-1 bg-gradient-to-r from-cyan-700/40 to-purple-800/45 text-white rounded-full text-sm"
+                  className="px-3 py-1 bg-gradient-to-r from-cyan-700/60 to-purple-800/65 text-white rounded-full text-sm"
                 >
                   {skill}
                 </span>
@@ -79,6 +80,15 @@ const About = () => {
             <span className="text-sm text-gray-400">(2021 - 2025)</span>
           </p>
         </div>
+        <div className="flex mt-10">
+        <a
+          href="https://drive.google.com/file/d/1UpWGcFXAOuskytwDt685T52SAFJZTM84/view?usp=sharing"
+          download
+          className="flex gap-2 bg-gradient-to-r from-cyan-600 to-purple-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-purple-600 transition"
+        >
+          <FaDownload /> Download CV
+        </a>
+      </div>
       </div>
     </section>
   );

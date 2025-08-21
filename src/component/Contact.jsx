@@ -98,7 +98,9 @@ const Contact = () => {
               <FaInstagramSquare />
             </a>
             <a
-              href="sivanimanju2003@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=sivanimanju2003@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition"
             >
               <FaEnvelope />
