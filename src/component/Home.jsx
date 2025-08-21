@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col justify-center items-center  bg-gradient-to-r from-black via-[#100718] to-black text-center px-6"
+      className="min-h-screen flex flex-col justify-center items-center  bg-gradient-to-r from-black via-[#230825] to-black text-center px-6"
     >
       {/* Heading */}
       <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">

@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="min-h-screen bg-gradient-to-r from-black via-[#100718] to-black text-gray-200 py-16 px-6"
+      className="min-h-screen bg-gradient-to-r from-black via-[#230825] to-black text-gray-200 py-16 px-6"
     >
       {/* Heading */}
       <h2 className="text-3xl lg:text-5xl font-bold text-center text-gray-50 mb-12">
