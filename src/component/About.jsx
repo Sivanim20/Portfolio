@@ -57,7 +57,8 @@ const About = () => {
                 "Node.js",
                 "Express.js",
                 "MongoDB",
-                "SQL"
+                "SQL",
+                "Firebase"
               ].map((skill, index) => (
                 <span
                   key={index}
