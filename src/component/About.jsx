@@ -13,7 +13,7 @@ const About = () => {
       </h2>
 
       {/* Intro */}
-      <div className="max-w-4xl mx-auto bg-gradient-to-r from-cyan-800/20 to-purple-950/25 rounded-xl p-6 md:p-10 shadow-lg">
+      <div className="max-w-4xl mx-auto bg-gradient-to-r from-cyan-800/30 to-purple-950/35 rounded-xl p-6 md:p-10 shadow-lg">
         <p className="text-lg leading-relaxed text-gray-300 mb-8">
           I'm a passionate Computer Science Engineering graduate dedicated to
           building user-friendly and responsive web applications. With a strong
