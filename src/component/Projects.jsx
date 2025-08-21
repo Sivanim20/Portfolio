@@ -31,7 +31,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-20 bg-gradient-to-r from-black via-[#071218] to-black text-white overflow-hidden">
+    <section id="projects" className="py-20 bg-gradient-to-r from-black via-[#100718] to-black text-white overflow-hidden">
       <div className="max-w-6xl mx-auto px-6">
         {/* Section Heading */}
         <h2 className="text-5xl font-bold text-left mb-12 text-white">
@@ -51,7 +51,7 @@ const Projects = () => {
                 {p.title}
               </h3>
 
-              {/* Project Description */}
+              {/*Description */}
               <p className="text-gray-300 mb-4">{p.desc}</p>
 
               {/* Tech Stack */}
