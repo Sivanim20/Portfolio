@@ -22,20 +22,18 @@ const About = () => {
         </p>
 
         {/* Skills Section */}
+        <h3 className="text-2xl font-semibold text-blue-300 mb-4 pl-2">
+              Skills
+            </h3>
         <div className="grid md:grid-cols-2 gap-10 mb-8">
-          {/* Frontend */}
-          <div>
+          <div className="border-[1px] border-cyan-600/20 p-4 rounded-lg">
             <h3 className="text-xl font-semibold text-cyan-300/70 mb-4">
-              Frontend
+              Languages
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "React.js",
-                "Tailwind CSS",
-                "Python"
+                "Javascript",
+                "Python",
               ].map((skill, index) => (
                 <span
                   key={index}
@@ -47,18 +45,56 @@ const About = () => {
             </div>
           </div>
 
-          {/* Backend */}
-          <div>
+          <div className="border-[1px] border-cyan-600/20 p-4 rounded-lg">
             <h3 className="text-xl font-semibold text-cyan-300/70 mb-4">
-              Backend
+              Libraries & Frameworks
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
-                "Node.js",
+                "React.js",
                 "Express.js",
+                "Node.js",
+                "Tailwind CSS",
+              ].map((skill, index) => (
+                <span
+                  key={index}
+                  className="px-3 py-1 bg-gradient-to-r from-cyan-700/40 to-purple-800/45 text-white rounded-full text-sm"
+                >
+                  {skill}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div className="border-[1px] border-cyan-600/20 p-4 rounded-lg">
+            <h3 className="text-xl font-semibold text-cyan-300/70 mb-4">
+              Tools & Platforms
+            </h3>
+            <div className="flex flex-wrap gap-2">
+              {[
+                "Git & GitHub",
+                "VSCode",
+                "Postman",
+              ].map((skill, index) => (
+                <span
+                  key={index}
+                  className="px-3 py-1 bg-gradient-to-r from-cyan-700/40 to-purple-800/45 text-white rounded-full text-sm"
+                >
+                  {skill}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div className="border-[1px] border-cyan-600/20 p-4 rounded-lg">
+            <h3 className="text-xl font-semibold text-cyan-300/70 mb-4">
+              Databases
+            </h3>
+            <div className="flex flex-wrap gap-2">
+              {[
                 "MongoDB",
                 "SQL",
-                "Firebase"
+                "Firebase",
               ].map((skill, index) => (
                 <span
                   key={index}
@@ -83,7 +119,7 @@ const About = () => {
         </div>
         <div className="flex mt-10">
         <a
-          href="https://drive.google.com/file/d/1UpWGcFXAOuskytwDt685T52SAFJZTM84/view?usp=sharing"
+          href="https://drive.google.com/file/d/1OGJe8aKyhi1KQrl9PB1oxYrfqGe1aEzm/view?usp=sharing"
           download
           className="flex gap-2 bg-gradient-to-r from-cyan-600 to-purple-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-purple-600 transition"
         >

@@ -74,10 +74,10 @@ const Home = () => {
           View Projects
         </a>
         <a
-          href="#about"
+          href="#contact"
           className="border border-purple-500 bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent px-6 py-3 rounded-lg font-medium hover:bg-purple-600 hover:text-white transition"
         >
-          About Me
+          Contact Me
         </a>
       </div>
     </section>
