@@ -11,7 +11,7 @@ const Home = () => {
       <div
         className="
           absolute 
-          bottom-14 left-1/2 md:left-12 md:bottom-0
+          bottom-28 left-1/2 md:left-12 md:bottom-0
           -translate-x-1/2 md:translate-x-0 
           md:-translate-y-1/2 
           flex md:flex-col gap-6 text-3xl text-gray-400
