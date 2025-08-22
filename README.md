@@ -5,12 +5,12 @@ This project showcases my skills as a **Computer Science Engineering student and
 
 ## Table of Contents
 
-- [Project Overview](#Project Overview)
+- [Project_Overview](#Project Overview)
 - [Features](#Features)  
 - [Technologies Used](#Technologies Used)  
 - [Setup](#Setup)
-- [Folder Structure](#Folder Structure) 
-- [Live Demo](#Live Demo)  
+- [Folder_Structure](#Folder Structure) 
+- [Live_Demo](#Live Demo)  
 - [Screenshots](#Screenshots) 
 
 ## Project Overview
