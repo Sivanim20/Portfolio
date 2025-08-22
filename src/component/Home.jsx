@@ -62,7 +62,7 @@ const Home = () => {
         I'm M Sivani — a Computer Science enthusiast passionate about
         creating innovative web applications, solving real-world problems
         with technology, and continuously exploring new tools in the world
-        of software development.
+        of web development.
       </p>
 
       {/* Buttons */}
