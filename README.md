@@ -7,11 +7,11 @@ This project showcases my skills as a **Computer Science Engineering student and
 
 - [Project_Overview](#Project Overview)
 - [Features](#Features)  
-- [Technologies Used](#Technologies Used)  
+- [Technologies_Used](#Technologies Used)  
 - [Setup](#Setup)
 - [Folder_Structure](#Folder Structure) 
 - [Live_Demo](#Live Demo)  
-- [Screenshots](#Screenshots) 
+<!-- - [Screenshots](#Screenshots)  -->
 
 ## Project Overview
 This is a **fully responsive portfolio website** that adapts seamlessly across devices, including **mobile, tablet, and desktop**.  
@@ -85,17 +85,3 @@ portfolio/
 
 Check out the live version of my portfolio here 👉
 [Portfolio Website](https://portfolio-gules-omega-10.vercel.app/)
-
-## Screenshots
-
-### Home Page
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
