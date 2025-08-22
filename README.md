@@ -10,7 +10,7 @@ This project showcases my skills as a **Computer Science Engineering student and
 - [Technologies_Used](#Technologies_Used)  
 - [Setup](#Setup)
 - [Folder_Structure](#Folder_Structure) 
-- [Live_Demo](#Live Demo)  
+- [Live_Demo](#Live_Demo)  
 <!-- - [Screenshots](#Screenshots)  -->
 
 ## Project_Overview
