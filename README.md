@@ -5,15 +5,15 @@ This project showcases my skills as a **Computer Science Engineering student and
 
 ## Table of Contents
 
-- [Project_Overview](#Project Overview)
+- [Project_Overview](#Project_Overview)
 - [Features](#Features)  
-- [Technologies_Used](#Technologies Used)  
+- [Technologies_Used](#Technologies_Used)  
 - [Setup](#Setup)
-- [Folder_Structure](#Folder Structure) 
+- [Folder_Structure](#Folder_Structure) 
 - [Live_Demo](#Live Demo)  
 <!-- - [Screenshots](#Screenshots)  -->
 
-## Project Overview
+## Project_Overview
 This is a **fully responsive portfolio website** that adapts seamlessly across devices, including **mobile, tablet, and desktop**.  
 The website highlights my **skills, education, and projects**, while also providing easy ways to connect with me.  
 It contains multiple sections such as **Home, About, Projects, and Contact**, all navigable through a sticky navigation bar.  
@@ -33,7 +33,7 @@ It contains multiple sections such as **Home, About, Projects, and Contact**, al
 - **Contact Section**: Contact form plus social media links.  
 
 
-## Technologies Used
+## Technologies_Used
 - **React.js**  
 - **JavaScript**  
 - **Tailwind CSS**  
@@ -61,7 +61,7 @@ To run this project locally:
 
 Open [Portfolio Website](https://portfolio-gules-omega-10.vercel.app/) to view it in the browser.
 
-## Folder Structure
+## Folder_Structure
 
 ```
 portfolio/
@@ -81,7 +81,7 @@ portfolio/
 ```
 
 
-## Live Demo
+## Live_Demo
 
 Check out the live version of my portfolio here 👉
 [Portfolio Website](https://portfolio-gules-omega-10.vercel.app/)
