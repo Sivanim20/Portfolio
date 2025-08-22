@@ -119,7 +119,7 @@ const About = () => {
         </div>
         <div className="flex mt-10">
         <a
-          href="https://drive.google.com/file/d/1OGJe8aKyhi1KQrl9PB1oxYrfqGe1aEzm/view?usp=sharing"
+          href="https://drive.google.com/file/d/136G5qGw7VsocJQSuWEllbj7sxDH0nam1/view?usp=sharing"
           download
           className="flex gap-2 bg-gradient-to-r from-cyan-600 to-purple-700 text-white px-6 py-3 rounded-lg font-medium hover:bg-purple-600 transition"
         >
