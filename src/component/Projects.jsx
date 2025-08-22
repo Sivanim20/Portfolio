@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: "Task Manager",
-    desc: "A productivity web app built with React & MongoDB that allows users to add, delete, and organize tasks efficiently.",
+    desc: "A productivity web app built with React that allows users to add, delete, and organize tasks efficiently.",
     tech: ["Html", "CSS", "Javascript"],
     link: "https://sivanim20.github.io/task-management-website/",
   },
