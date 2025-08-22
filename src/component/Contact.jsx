@@ -1,6 +1,6 @@
 import React from "react";
 import { toast } from 'react-toastify';
-import { FaGithub, FaLinkedin, FaInstagramSquare, FaEnvelope, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from "react-icons/fa";
 
 const Contact = () => {
     const [result, setResult] = React.useState("");
@@ -95,7 +95,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-purple-400 transition"
             >
-              <FaInstagramSquare />
+              <FaInstagram />
             </a>
             <a
                 href="https://mail.google.com/mail/?view=cm&fs=1&to=sivanimanju2003@gmail.com"
